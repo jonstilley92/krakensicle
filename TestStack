@@ -1,0 +1,3 @@
+public class StackDemo
+
+static void showpush(Stack st, int a)
